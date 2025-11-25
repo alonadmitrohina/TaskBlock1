@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.w3c.dom.Document;
@@ -15,6 +16,14 @@ import java.util.Map;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class XMLWriterTest {
+
+    @BeforeAll
+    static void checkDirectory() {
+        File directoryXML = new File("src/test/resources/xml/");
+        if (!directoryXML.exists()) {
+            directoryXML.mkdirs();
+        }
+    }
 
     @Test
     @DisplayName("Створення XML")

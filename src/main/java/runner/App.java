@@ -63,6 +63,12 @@ public class App {
 
         Playlist playlist = jsonParser.getPlaylist();
         Map<String, Integer> stats = statistics.formStatistics(playlist, attribute);
+
+        File directoryXML = new File("src/main/resources/xml/");
+        if (!directoryXML.exists()) {
+            directoryXML.mkdirs();
+        }
+
         XMLWriter.createXML("src/main/resources/xml/", stats, attribute);
         System.out.println("Сформовано статистику за атрибутом: " + attribute);
 
