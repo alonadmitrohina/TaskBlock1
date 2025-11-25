@@ -17,7 +17,7 @@
 2 - year
 3 - genres
 
-Готові XML-файли зі статистикою будуть у src/main/resources/xml
+Готові XML-файли зі статистикою будуть у src/main/resources/xml.
 
 
 
@@ -137,9 +137,11 @@
 
 
 Багатопоточність:
-Для потокобезпечності у JSONParser використовується CopyOnWriteArrayList, для формування статистики - ConcurrentHashMap
+Для потокобезпечності у JSONParser використовується CopyOnWriteArrayList, для формування статистики - ConcurrentHashMap.
 Для експериментів з кількістю потоків використовується ExecutorService:
-ExecutorService executor = Executors.newFixedThreadPool(nThreads) 
+
+ExecutorService executor = Executors.newFixedThreadPool(nThreads)
+
 Результати експериментів:
 | Кількість потоків | Час виконання (нс) | Прискорення відносно 1 потоку |
 | ----------------- | ------------------ | ----------------------------- |
