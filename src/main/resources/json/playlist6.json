@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Sweater Weather",
+    "singer": "The Neighbourhood",
+    "genres": "indie pop, alternative rock, soft rock",
+    "release_year": 2013
+  },
+  {
+    "name": "Golden Hour",
+    "singer": "Kacey Musgraves",
+    "genres": "country pop, folk, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Grapejuice",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Lost Cause",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Dear Reader",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Savage Remix",
+    "singer": "Megan Thee Stallion",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "family ties",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Ghostin",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "2step",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Party",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Normal Girl",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "She Knows",
+    "singer": "Dua Lipa",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daylight",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ocean Eyes",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Lights Up",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2019
+  },
+  {
+    "name": "Money Trees",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2012
+  },
+  {
+    "name": "Too Late",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Need to Know",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Wait For U",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, r&b, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Liability",
+    "singer": "Lorde",
+    "genres": "art pop, soft music, piano ballad",
+    "release_year": 2017
+  },
+  {
+    "name": "Love Again",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Enchanted",
+    "singer": "Taylor Swift",
+    "genres": "pop, country pop, soft rock",
+    "release_year": 2010
+  },
+  {
+    "name": "Everything I Wanted",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music, ambient",
+    "release_year": 2019
+  },
+  {
+    "name": "Satellite",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Rich Girl",
+    "singer": "Gwen Stefani",
+    "genres": "pop, hip hop, reggae fusion",
+    "release_year": 2004
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Pillowtalk",
+    "singer": "Zayn",
+    "genres": "r&b, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Happier",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, folk",
+    "release_year": 2017
+  },
+  {
+    "name": "Get Away",
+    "singer": "The Weeknd",
+    "genres": "r&b, pop, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Wildest Dreams",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Bored",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Electricity",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "PRIDE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Chambea",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2017
+  },
+  {
+    "name": "Side To Side",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, dancehall",
+    "release_year": 2016
+  },
+  {
+    "name": "Nonstop",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Delicate",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Come Out and Play",
+    "singer": "Billie Eilish",
+    "genres": "pop, indie, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "One Kiss",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Super Freaky Girl",
+    "singer": "Nicki Minaj",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Sweater Weather",
+    "singer": "The Neighbourhood",
+    "genres": "indie pop, alternative rock, soft rock",
+    "release_year": 2013
+  },
+  {
+    "name": "Golden Hour",
+    "singer": "Kacey Musgraves",
+    "genres": "country pop, folk, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Grapejuice",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Lost Cause",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Dear Reader",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Savage Remix",
+    "singer": "Megan Thee Stallion",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "family ties",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Ghostin",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "2step",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Party",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Normal Girl",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "She Knows",
+    "singer": "Dua Lipa",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daylight",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ocean Eyes",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Lights Up",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2019
+  },
+  {
+    "name": "Money Trees",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2012
+  },
+  {
+    "name": "Too Late",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Need to Know",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Wait For U",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, r&b, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Liability",
+    "singer": "Lorde",
+    "genres": "art pop, soft music, piano ballad",
+    "release_year": 2017
+  },
+  {
+    "name": "Love Again",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Enchanted",
+    "singer": "Taylor Swift",
+    "genres": "pop, country pop, soft rock",
+    "release_year": 2010
+  },
+  {
+    "name": "Everything I Wanted",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music, ambient",
+    "release_year": 2019
+  },
+  {
+    "name": "Satellite",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Rich Girl",
+    "singer": "Gwen Stefani",
+    "genres": "pop, hip hop, reggae fusion",
+    "release_year": 2004
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Pillowtalk",
+    "singer": "Zayn",
+    "genres": "r&b, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Happier",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, folk",
+    "release_year": 2017
+  },
+  {
+    "name": "Get Away",
+    "singer": "The Weeknd",
+    "genres": "r&b, pop, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Wildest Dreams",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Bored",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Electricity",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "PRIDE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Chambea",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2017
+  },
+  {
+    "name": "Side To Side",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, dancehall",
+    "release_year": 2016
+  },
+  {
+    "name": "Nonstop",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Delicate",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Come Out and Play",
+    "singer": "Billie Eilish",
+    "genres": "pop, indie, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "One Kiss",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Super Freaky Girl",
+    "singer": "Nicki Minaj",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Sweater Weather",
+    "singer": "The Neighbourhood",
+    "genres": "indie pop, alternative rock, soft rock",
+    "release_year": 2013
+  },
+  {
+    "name": "Golden Hour",
+    "singer": "Kacey Musgraves",
+    "genres": "country pop, folk, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Grapejuice",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Lost Cause",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Dear Reader",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Savage Remix",
+    "singer": "Megan Thee Stallion",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "family ties",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Ghostin",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "2step",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Party",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Normal Girl",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "She Knows",
+    "singer": "Dua Lipa",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daylight",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ocean Eyes",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Lights Up",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2019
+  },
+  {
+    "name": "Money Trees",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2012
+  },
+  {
+    "name": "Too Late",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Need to Know",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Wait For U",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, r&b, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Liability",
+    "singer": "Lorde",
+    "genres": "art pop, soft music, piano ballad",
+    "release_year": 2017
+  },
+  {
+    "name": "Love Again",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Enchanted",
+    "singer": "Taylor Swift",
+    "genres": "pop, country pop, soft rock",
+    "release_year": 2010
+  },
+  {
+    "name": "Everything I Wanted",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music, ambient",
+    "release_year": 2019
+  },
+  {
+    "name": "Satellite",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Rich Girl",
+    "singer": "Gwen Stefani",
+    "genres": "pop, hip hop, reggae fusion",
+    "release_year": 2004
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Pillowtalk",
+    "singer": "Zayn",
+    "genres": "r&b, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Happier",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, folk",
+    "release_year": 2017
+  },
+  {
+    "name": "Get Away",
+    "singer": "The Weeknd",
+    "genres": "r&b, pop, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Wildest Dreams",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Bored",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Electricity",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "PRIDE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Chambea",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2017
+  },
+  {
+    "name": "Side To Side",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, dancehall",
+    "release_year": 2016
+  },
+  {
+    "name": "Nonstop",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Delicate",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Come Out and Play",
+    "singer": "Billie Eilish",
+    "genres": "pop, indie, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "One Kiss",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Super Freaky Girl",
+    "singer": "Nicki Minaj",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Sweater Weather",
+    "singer": "The Neighbourhood",
+    "genres": "indie pop, alternative rock, soft rock",
+    "release_year": 2013
+  },
+  {
+    "name": "Golden Hour",
+    "singer": "Kacey Musgraves",
+    "genres": "country pop, folk, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Grapejuice",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Lost Cause",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Dear Reader",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Savage Remix",
+    "singer": "Megan Thee Stallion",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "family ties",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Ghostin",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "2step",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Party",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Normal Girl",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "She Knows",
+    "singer": "Dua Lipa",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daylight",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ocean Eyes",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Lights Up",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2019
+  },
+  {
+    "name": "Money Trees",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2012
+  },
+  {
+    "name": "Too Late",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Need to Know",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Wait For U",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, r&b, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Liability",
+    "singer": "Lorde",
+    "genres": "art pop, soft music, piano ballad",
+    "release_year": 2017
+  },
+  {
+    "name": "Love Again",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Enchanted",
+    "singer": "Taylor Swift",
+    "genres": "pop, country pop, soft rock",
+    "release_year": 2010
+  },
+  {
+    "name": "Everything I Wanted",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music, ambient",
+    "release_year": 2019
+  },
+  {
+    "name": "Satellite",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Rich Girl",
+    "singer": "Gwen Stefani",
+    "genres": "pop, hip hop, reggae fusion",
+    "release_year": 2004
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Pillowtalk",
+    "singer": "Zayn",
+    "genres": "r&b, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Happier",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, folk",
+    "release_year": 2017
+  },
+  {
+    "name": "Get Away",
+    "singer": "The Weeknd",
+    "genres": "r&b, pop, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Wildest Dreams",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Bored",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Electricity",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "PRIDE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2017
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Chambea",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2017
+  },
+  {
+    "name": "Side To Side",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, dancehall",
+    "release_year": 2016
+  },
+  {
+    "name": "Nonstop",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Delicate",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Come Out and Play",
+    "singer": "Billie Eilish",
+    "genres": "pop, indie, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "One Kiss",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Super Freaky Girl",
+    "singer": "Nicki Minaj",
+    "genres": "hip hop, trap, pop",
+    "release_year": 2022
+  }
+]

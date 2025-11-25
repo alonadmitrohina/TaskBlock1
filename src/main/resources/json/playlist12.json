@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Levitating (Live at Wembley)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2022
+  },
+  {
+    "name": "Love Story",
+    "singer": "Taylor Swift",
+    "genres": "country pop, pop, soft rock",
+    "release_year": 2008
+  },
+  {
+    "name": "Redbone",
+    "singer": "Childish Gambino",
+    "genres": "funk, neo-soul, r&b",
+    "release_year": 2016
+  },
+  {
+    "name": "God Is a Woman (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Sicko Mode",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Blinding Lights (The Remix)",
+    "singer": "The Weeknd",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Adore You (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "N95 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Live)",
+    "singer": "SZA",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Drivers License (Acoustic)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Castle on the Hill (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, arena rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Moscow Mule (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "In My Feelings (Acoustic)",
+    "singer": "Drake",
+    "genres": "hip hop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Happier Than Ever (Live)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Treat People With Kindness (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Auntie Diaries (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Habits (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "One Dance (Remix)",
+    "singer": "Drake",
+    "genres": "dancehall, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "The Hills (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Anti-Hero (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Late Night Talking (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Deja Vu (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shivers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Me Porto Bonito (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2023
+  },
+  {
+    "name": "7 Rings (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Live)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Save Your Tears (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2021
+  },
+  {
+    "name": "My Future (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Love Again (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Good 4 U (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Dákiti (Live)",
+    "singer": "Bad Bunny ft. Jhay Cortez",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Thank U, Next (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Nonstop (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Levitating (Live at Wembley)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2022
+  },
+  {
+    "name": "Love Story",
+    "singer": "Taylor Swift",
+    "genres": "country pop, pop, soft rock",
+    "release_year": 2008
+  },
+  {
+    "name": "Redbone",
+    "singer": "Childish Gambino",
+    "genres": "funk, neo-soul, r&b",
+    "release_year": 2016
+  },
+  {
+    "name": "God Is a Woman (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Sicko Mode",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Blinding Lights (The Remix)",
+    "singer": "The Weeknd",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Adore You (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "N95 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Live)",
+    "singer": "SZA",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Drivers License (Acoustic)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Castle on the Hill (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, arena rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Moscow Mule (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "In My Feelings (Acoustic)",
+    "singer": "Drake",
+    "genres": "hip hop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Happier Than Ever (Live)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Treat People With Kindness (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Auntie Diaries (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Habits (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "One Dance (Remix)",
+    "singer": "Drake",
+    "genres": "dancehall, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "The Hills (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Anti-Hero (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Late Night Talking (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Deja Vu (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shivers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Me Porto Bonito (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2023
+  },
+  {
+    "name": "7 Rings (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Live)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Save Your Tears (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2021
+  },
+  {
+    "name": "My Future (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Love Again (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Good 4 U (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Dákiti (Live)",
+    "singer": "Bad Bunny ft. Jhay Cortez",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Thank U, Next (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Nonstop (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Levitating (Live at Wembley)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2022
+  },
+  {
+    "name": "Love Story",
+    "singer": "Taylor Swift",
+    "genres": "country pop, pop, soft rock",
+    "release_year": 2008
+  },
+  {
+    "name": "Redbone",
+    "singer": "Childish Gambino",
+    "genres": "funk, neo-soul, r&b",
+    "release_year": 2016
+  },
+  {
+    "name": "God Is a Woman (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Sicko Mode",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Blinding Lights (The Remix)",
+    "singer": "The Weeknd",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Adore You (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "N95 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Live)",
+    "singer": "SZA",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Drivers License (Acoustic)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Castle on the Hill (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, arena rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Moscow Mule (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "In My Feelings (Acoustic)",
+    "singer": "Drake",
+    "genres": "hip hop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Happier Than Ever (Live)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Treat People With Kindness (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Auntie Diaries (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Habits (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "One Dance (Remix)",
+    "singer": "Drake",
+    "genres": "dancehall, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "The Hills (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Anti-Hero (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Late Night Talking (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Deja Vu (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shivers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Me Porto Bonito (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2023
+  },
+  {
+    "name": "7 Rings (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Live)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Save Your Tears (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2021
+  },
+  {
+    "name": "My Future (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Love Again (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Good 4 U (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Dákiti (Live)",
+    "singer": "Bad Bunny ft. Jhay Cortez",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Thank U, Next (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Nonstop (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Levitating (Live at Wembley)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2022
+  },
+  {
+    "name": "Love Story",
+    "singer": "Taylor Swift",
+    "genres": "country pop, pop, soft rock",
+    "release_year": 2008
+  },
+  {
+    "name": "Redbone",
+    "singer": "Childish Gambino",
+    "genres": "funk, neo-soul, r&b",
+    "release_year": 2016
+  },
+  {
+    "name": "God Is a Woman (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Sicko Mode",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Blinding Lights (The Remix)",
+    "singer": "The Weeknd",
+    "genres": "pop, electronic, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Adore You (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "N95 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Live)",
+    "singer": "SZA",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Drivers License (Acoustic)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Castle on the Hill (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, arena rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Moscow Mule (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "In My Feelings (Acoustic)",
+    "singer": "Drake",
+    "genres": "hip hop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Happier Than Ever (Live)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Treat People With Kindness (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Auntie Diaries (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Habits (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "One Dance (Remix)",
+    "singer": "Drake",
+    "genres": "dancehall, electronic, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "The Hills (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Anti-Hero (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Late Night Talking (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5 (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Deja Vu (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shivers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Me Porto Bonito (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2023
+  },
+  {
+    "name": "7 Rings (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Live)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Save Your Tears (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2021
+  },
+  {
+    "name": "My Future (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Love Again (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Good 4 U (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Dákiti (Live)",
+    "singer": "Bad Bunny ft. Jhay Cortez",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Thank U, Next (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Nonstop (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  }
+]

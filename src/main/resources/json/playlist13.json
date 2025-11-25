@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "One Kiss (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "The Great Escape (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Blinding Lights (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Satellite (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Mr. Morale (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Garden of Light (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, pop, soft music",
+    "release_year": 2024
+  },
+  {
+    "name": "Enough for You (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Nancy Mulligan (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Titi Me Preguntó (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Into You (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Passionfruit (Remix)",
+    "singer": "Drake",
+    "genres": "r&b, dancehall, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Call Out My Name (Live)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Shake It Off (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "You Should See Me in a Crown (Live)",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Be The One (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Treat People With Kindness (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2021
+  },
+  {
+    "name": "Swimming Pools (Drank) (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2013
+  },
+  {
+    "name": "Drew Barrymore (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Jealousy, Jealousy (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Supermarket Flowers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Después de la Playa (Live)",
+    "singer": "Bad Bunny",
+    "genres": "mambo, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "One Last Time (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "Energy (Remix)",
+    "singer": "Drake",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "In Your Eyes (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, r&b, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Clean (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "When The Party's Over (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "New Rules (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, dance-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Fine Line (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2020
+  },
+  {
+    "name": "King Kunta (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, funk",
+    "release_year": 2015
+  },
+  {
+    "name": "Broken Clocks (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Favorite Crime (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Galway Girl (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, celtic",
+    "release_year": 2017
+  },
+  {
+    "name": "Vete (Live)",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2020
+  },
+  {
+    "name": "Test Drive (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Laugh Now Cry Later (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Gasoline (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Out Of The Woods (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Lovely (Live)",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Salty Tears (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Piano Version)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Piano Version)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Otro Atardecer (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Side To Side (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Rich Flex (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Midnight City Groove",
+    "singer": "The Weeknd",
+    "genres": "r&b, dance, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "One Kiss (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "The Great Escape (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Blinding Lights (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Satellite (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Mr. Morale (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Garden of Light (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, pop, soft music",
+    "release_year": 2024
+  },
+  {
+    "name": "Enough for You (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Nancy Mulligan (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Titi Me Preguntó (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Into You (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Passionfruit (Remix)",
+    "singer": "Drake",
+    "genres": "r&b, dancehall, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Call Out My Name (Live)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Shake It Off (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "You Should See Me in a Crown (Live)",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Be The One (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Treat People With Kindness (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2021
+  },
+  {
+    "name": "Swimming Pools (Drank) (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2013
+  },
+  {
+    "name": "Drew Barrymore (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Jealousy, Jealousy (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Supermarket Flowers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Después de la Playa (Live)",
+    "singer": "Bad Bunny",
+    "genres": "mambo, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "One Last Time (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "Energy (Remix)",
+    "singer": "Drake",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "In Your Eyes (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, r&b, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Clean (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "When The Party's Over (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "New Rules (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, dance-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Fine Line (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2020
+  },
+  {
+    "name": "King Kunta (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, funk",
+    "release_year": 2015
+  },
+  {
+    "name": "Broken Clocks (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Favorite Crime (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Galway Girl (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, celtic",
+    "release_year": 2017
+  },
+  {
+    "name": "Vete (Live)",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2020
+  },
+  {
+    "name": "Test Drive (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Laugh Now Cry Later (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Gasoline (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Out Of The Woods (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Lovely (Live)",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Salty Tears (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Piano Version)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Piano Version)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Otro Atardecer (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Side To Side (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Rich Flex (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Midnight City Groove",
+    "singer": "The Weeknd",
+    "genres": "r&b, dance, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "One Kiss (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "The Great Escape (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Blinding Lights (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Satellite (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Mr. Morale (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Garden of Light (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, pop, soft music",
+    "release_year": 2024
+  },
+  {
+    "name": "Enough for You (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Nancy Mulligan (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Titi Me Preguntó (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Into You (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Passionfruit (Remix)",
+    "singer": "Drake",
+    "genres": "r&b, dancehall, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Call Out My Name (Live)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Shake It Off (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "You Should See Me in a Crown (Live)",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Be The One (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Treat People With Kindness (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2021
+  },
+  {
+    "name": "Swimming Pools (Drank) (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2013
+  },
+  {
+    "name": "Drew Barrymore (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Jealousy, Jealousy (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Supermarket Flowers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Después de la Playa (Live)",
+    "singer": "Bad Bunny",
+    "genres": "mambo, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "One Last Time (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "Energy (Remix)",
+    "singer": "Drake",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "In Your Eyes (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, r&b, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Clean (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "When The Party's Over (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "New Rules (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, dance-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Fine Line (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2020
+  },
+  {
+    "name": "King Kunta (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, funk",
+    "release_year": 2015
+  },
+  {
+    "name": "Broken Clocks (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Favorite Crime (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Galway Girl (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, celtic",
+    "release_year": 2017
+  },
+  {
+    "name": "Vete (Live)",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2020
+  },
+  {
+    "name": "Test Drive (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Laugh Now Cry Later (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Gasoline (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Out Of The Woods (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Lovely (Live)",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Salty Tears (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Piano Version)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Piano Version)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Otro Atardecer (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Side To Side (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Rich Flex (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Midnight City Groove",
+    "singer": "The Weeknd",
+    "genres": "r&b, dance, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "One Kiss (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "house, dance, pop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "The Great Escape (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Blinding Lights (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Satellite (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Mr. Morale (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Garden of Light (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, pop, soft music",
+    "release_year": 2024
+  },
+  {
+    "name": "Enough for You (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Nancy Mulligan (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Titi Me Preguntó (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Into You (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Passionfruit (Remix)",
+    "singer": "Drake",
+    "genres": "r&b, dancehall, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Call Out My Name (Live)",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Shake It Off (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "You Should See Me in a Crown (Live)",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Be The One (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Treat People With Kindness (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, soul, funk",
+    "release_year": 2021
+  },
+  {
+    "name": "Swimming Pools (Drank) (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2013
+  },
+  {
+    "name": "Drew Barrymore (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Jealousy, Jealousy (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Supermarket Flowers (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft music",
+    "release_year": 2017
+  },
+  {
+    "name": "Después de la Playa (Live)",
+    "singer": "Bad Bunny",
+    "genres": "mambo, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "One Last Time (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "Energy (Remix)",
+    "singer": "Drake",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "In Your Eyes (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, r&b, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Clean (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2015
+  },
+  {
+    "name": "When The Party's Over (Live)",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "New Rules (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, dance-pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Fine Line (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2020
+  },
+  {
+    "name": "King Kunta (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, funk",
+    "release_year": 2015
+  },
+  {
+    "name": "Broken Clocks (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2018
+  },
+  {
+    "name": "Favorite Crime (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Galway Girl (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, celtic",
+    "release_year": 2017
+  },
+  {
+    "name": "Vete (Live)",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2020
+  },
+  {
+    "name": "Test Drive (Live)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Laugh Now Cry Later (Live)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Gasoline (Live)",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Out Of The Woods (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2015
+  },
+  {
+    "name": "Lovely (Live)",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE. (Live)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Salty Tears (Live)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Piano Version)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Piano Version)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Otro Atardecer (Live)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Side To Side (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2016
+  },
+  {
+    "name": "Rich Flex (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Midnight City Groove",
+    "singer": "The Weeknd",
+    "genres": "r&b, dance, pop",
+    "release_year": 2023
+  }
+]

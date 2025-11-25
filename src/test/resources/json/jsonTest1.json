@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Moonlight Echoes",
+    "singer": "Ariana Grande",
+    "genres": "pop, rnb",
+    "release_year": 2023
+  },
+  {
+    "name": "Shadow Dancer",
+    "singer": "Parfenuk",
+    "genres": "pop, soft music, ukrainian",
+    "release_year": 2024
+  },
+  {
+    "name": "Electric Heartbeat",
+    "singer": "The Weekend",
+    "genres": "pop, synthwave",
+    "release_year": 2022
+  }
+]

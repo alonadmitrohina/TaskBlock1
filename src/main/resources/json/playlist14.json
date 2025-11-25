@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "Midnight Rain (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Die For You (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Anti-Hero (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Therefore I Am (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "The Heart Part 5 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good Days (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35 (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Save Your Tears (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Willow (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Love Again (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Acapella)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame (Acapella)",
+    "singer": "Swedish House Mafia & The Weeknd",
+    "genres": "electronic, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "All Too Well (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2012
+  },
+  {
+    "name": "Bad Guy (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "HUMBLE. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Nobody Gets Me (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling (Acapella)",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starlight Runner (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Cruel Summer (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier Than Ever (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Midnight Rain (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Die For You (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Anti-Hero (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Therefore I Am (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "The Heart Part 5 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good Days (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35 (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Save Your Tears (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Willow (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Love Again (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Acapella)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame (Acapella)",
+    "singer": "Swedish House Mafia & The Weeknd",
+    "genres": "electronic, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "All Too Well (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2012
+  },
+  {
+    "name": "Bad Guy (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "HUMBLE. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Nobody Gets Me (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling (Acapella)",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starlight Runner (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Cruel Summer (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier Than Ever (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Midnight Rain (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Die For You (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Anti-Hero (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Therefore I Am (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "The Heart Part 5 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good Days (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35 (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Save Your Tears (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Willow (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Love Again (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Acapella)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame (Acapella)",
+    "singer": "Swedish House Mafia & The Weeknd",
+    "genres": "electronic, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "All Too Well (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2012
+  },
+  {
+    "name": "Bad Guy (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "HUMBLE. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Nobody Gets Me (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling (Acapella)",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starlight Runner (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Cruel Summer (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier Than Ever (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Midnight Rain (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Die For You (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "r&b, synth-pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Anti-Hero (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Therefore I Am (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "The Heart Part 5 (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good Days (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35 (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings (Acapella)",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Save Your Tears (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Willow (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Love Again (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good (Acapella)",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame (Acapella)",
+    "singer": "Swedish House Mafia & The Weeknd",
+    "genres": "electronic, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "All Too Well (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2012
+  },
+  {
+    "name": "Bad Guy (Acapella)",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now (Acapella)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking (Acapella)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "HUMBLE. (Acapella)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Nobody Gets Me (Acapella)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu (Acapella)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect (Acapella)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos (Acapella)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next (Acapella)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling (Acapella)",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starlight Runner (Acapella)",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Cruel Summer (Acapella)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Happier Than Ever (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Physical (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2020
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Kiwi",
+    "singer": "Harry Styles",
+    "genres": "pop rock, alternative rock",
+    "release_year": 2017
+  },
+  {
+    "name": "A-Team",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft rock",
+    "release_year": 2011
+  },
+  {
+    "name": "Un Verano Sin Ti",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Salty Tears",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Ghost in the Machine",
+    "singer": "SZA ft. Phoebe Bridgers",
+    "genres": "r&b, neo-soul, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Chemtrails Over The Country Club",
+    "singer": "Lana Del Rey",
+    "genres": "indie pop, baroque pop, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "The 1",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2019
+  },
+  {
+    "name": "Lovely",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "IDGAF",
+    "singer": "Dua Lipa",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Lavender Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You (Remix)",
+    "singer": "The Weeknd ft. Ariana Grande",
+    "genres": "r&b, synth-pop, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Rich Sex",
+    "singer": "Nicki Minaj ft. Lil Wayne",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "DNA Sequence",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap, jazz rap",
+    "release_year": 2023
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Sweetener",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "The Great Escape",
+    "singer": "Taylor Swift",
+    "genres": "pop, pop rock",
+    "release_year": 2022
+  },
+  {
+    "name": "Getting Older",
+    "singer": "Billie Eilish",
+    "genres": "soft music, pop, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Scared to Be Lonely",
+    "singer": "Dua Lipa",
+    "genres": "electronic, dance, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Boyfriend",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Vienna",
+    "singer": "Billy Joel",
+    "genres": "soft rock, classic pop",
+    "release_year": 1977
+  },
+  {
+    "name": "Golden Hour Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, country, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Blinding Lights",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Water",
+    "singer": "Tyla",
+    "genres": "amapiano, r&b, afrobeats",
+    "release_year": 2023
+  },
+  {
+    "name": "Travesuras",
+    "singer": "Nicky Jam",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Better",
+    "singer": "Khalid",
+    "genres": "r&b, pop, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "Willow Tree Secrets",
+    "singer": "Taylor Swift",
+    "genres": "pop, indie folk, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Sabor A Mí",
+    "singer": "Luis Miguel",
+    "genres": "bolero, latin pop",
+    "release_year": 1997
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "She Used To Be Mine",
+    "singer": "Sara Bareilles",
+    "genres": "pop, soft music, broadway",
+    "release_year": 2015
+  },
+  {
+    "name": "Chandelier",
+    "singer": "Sia",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Astronaut In The Ocean",
+    "singer": "Masked Wolf",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Montero (Call Me By Your Name)",
+    "singer": "Lil Nas X",
+    "genres": "pop, r&b, rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Cherry",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, indie pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Otro Atardecer",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Kiss Me More",
+    "singer": "Doja Cat ft. SZA",
+    "genres": "pop, r&b, disco",
+    "release_year": 2021
+  },
+  {
+    "name": "Circles",
+    "singer": "Post Malone",
+    "genres": "pop, alternative rock",
+    "release_year": 2019
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Red Shift",
+    "singer": "The Weeknd",
+    "genres": "synthwave, dance, pop",
+    "release_year": 2024
+  },
+  {
+    "name": "Lavender Haze (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2014
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Kiwi",
+    "singer": "Harry Styles",
+    "genres": "pop rock, alternative rock",
+    "release_year": 2017
+  },
+  {
+    "name": "A-Team",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft rock",
+    "release_year": 2011
+  },
+  {
+    "name": "Un Verano Sin Ti",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Salty Tears",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Ghost in the Machine",
+    "singer": "SZA ft. Phoebe Bridgers",
+    "genres": "r&b, neo-soul, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Chemtrails Over The Country Club",
+    "singer": "Lana Del Rey",
+    "genres": "indie pop, baroque pop, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "The 1",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2019
+  },
+  {
+    "name": "Lovely",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "IDGAF",
+    "singer": "Dua Lipa",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Lavender Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You (Remix)",
+    "singer": "The Weeknd ft. Ariana Grande",
+    "genres": "r&b, synth-pop, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Rich Sex",
+    "singer": "Nicki Minaj ft. Lil Wayne",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "DNA Sequence",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap, jazz rap",
+    "release_year": 2023
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Sweetener",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "The Great Escape",
+    "singer": "Taylor Swift",
+    "genres": "pop, pop rock",
+    "release_year": 2022
+  },
+  {
+    "name": "Getting Older",
+    "singer": "Billie Eilish",
+    "genres": "soft music, pop, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Scared to Be Lonely",
+    "singer": "Dua Lipa",
+    "genres": "electronic, dance, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Boyfriend",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Vienna",
+    "singer": "Billy Joel",
+    "genres": "soft rock, classic pop",
+    "release_year": 1977
+  },
+  {
+    "name": "Golden Hour Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, country, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Blinding Lights",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Water",
+    "singer": "Tyla",
+    "genres": "amapiano, r&b, afrobeats",
+    "release_year": 2023
+  },
+  {
+    "name": "Travesuras",
+    "singer": "Nicky Jam",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Better",
+    "singer": "Khalid",
+    "genres": "r&b, pop, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "Willow Tree Secrets",
+    "singer": "Taylor Swift",
+    "genres": "pop, indie folk, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Sabor A Mí",
+    "singer": "Luis Miguel",
+    "genres": "bolero, latin pop",
+    "release_year": 1997
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "She Used To Be Mine",
+    "singer": "Sara Bareilles",
+    "genres": "pop, soft music, broadway",
+    "release_year": 2015
+  },
+  {
+    "name": "Chandelier",
+    "singer": "Sia",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Astronaut In The Ocean",
+    "singer": "Masked Wolf",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Montero (Call Me By Your Name)",
+    "singer": "Lil Nas X",
+    "genres": "pop, r&b, rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Cherry",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, indie pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Otro Atardecer",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Kiss Me More",
+    "singer": "Doja Cat ft. SZA",
+    "genres": "pop, r&b, disco",
+    "release_year": 2021
+  },
+  {
+    "name": "Circles",
+    "singer": "Post Malone",
+    "genres": "pop, alternative rock",
+    "release_year": 2019
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Red Shift",
+    "singer": "The Weeknd",
+    "genres": "synthwave, dance, pop",
+    "release_year": 2024
+  },
+  {
+    "name": "Lavender Haze (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2014
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Kiwi",
+    "singer": "Harry Styles",
+    "genres": "pop rock, alternative rock",
+    "release_year": 2017
+  },
+  {
+    "name": "A-Team",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft rock",
+    "release_year": 2011
+  },
+  {
+    "name": "Un Verano Sin Ti",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Salty Tears",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Ghost in the Machine",
+    "singer": "SZA ft. Phoebe Bridgers",
+    "genres": "r&b, neo-soul, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Chemtrails Over The Country Club",
+    "singer": "Lana Del Rey",
+    "genres": "indie pop, baroque pop, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "The 1",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2019
+  },
+  {
+    "name": "Lovely",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "IDGAF",
+    "singer": "Dua Lipa",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Lavender Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You (Remix)",
+    "singer": "The Weeknd ft. Ariana Grande",
+    "genres": "r&b, synth-pop, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Rich Sex",
+    "singer": "Nicki Minaj ft. Lil Wayne",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "DNA Sequence",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap, jazz rap",
+    "release_year": 2023
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Sweetener",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "The Great Escape",
+    "singer": "Taylor Swift",
+    "genres": "pop, pop rock",
+    "release_year": 2022
+  },
+  {
+    "name": "Getting Older",
+    "singer": "Billie Eilish",
+    "genres": "soft music, pop, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Scared to Be Lonely",
+    "singer": "Dua Lipa",
+    "genres": "electronic, dance, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Boyfriend",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Vienna",
+    "singer": "Billy Joel",
+    "genres": "soft rock, classic pop",
+    "release_year": 1977
+  },
+  {
+    "name": "Golden Hour Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, country, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Blinding Lights",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Water",
+    "singer": "Tyla",
+    "genres": "amapiano, r&b, afrobeats",
+    "release_year": 2023
+  },
+  {
+    "name": "Travesuras",
+    "singer": "Nicky Jam",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Better",
+    "singer": "Khalid",
+    "genres": "r&b, pop, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "Willow Tree Secrets",
+    "singer": "Taylor Swift",
+    "genres": "pop, indie folk, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Sabor A Mí",
+    "singer": "Luis Miguel",
+    "genres": "bolero, latin pop",
+    "release_year": 1997
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "She Used To Be Mine",
+    "singer": "Sara Bareilles",
+    "genres": "pop, soft music, broadway",
+    "release_year": 2015
+  },
+  {
+    "name": "Chandelier",
+    "singer": "Sia",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Astronaut In The Ocean",
+    "singer": "Masked Wolf",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Montero (Call Me By Your Name)",
+    "singer": "Lil Nas X",
+    "genres": "pop, r&b, rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Cherry",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, indie pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Otro Atardecer",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Kiss Me More",
+    "singer": "Doja Cat ft. SZA",
+    "genres": "pop, r&b, disco",
+    "release_year": 2021
+  },
+  {
+    "name": "Circles",
+    "singer": "Post Malone",
+    "genres": "pop, alternative rock",
+    "release_year": 2019
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Red Shift",
+    "singer": "The Weeknd",
+    "genres": "synthwave, dance, pop",
+    "release_year": 2024
+  },
+  {
+    "name": "Lavender Haze (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2014
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "Kiwi",
+    "singer": "Harry Styles",
+    "genres": "pop rock, alternative rock",
+    "release_year": 2017
+  },
+  {
+    "name": "A-Team",
+    "singer": "Ed Sheeran",
+    "genres": "folk, soft rock",
+    "release_year": 2011
+  },
+  {
+    "name": "Un Verano Sin Ti",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Salty Tears",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Ghost in the Machine",
+    "singer": "SZA ft. Phoebe Bridgers",
+    "genres": "r&b, neo-soul, indie pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Chemtrails Over The Country Club",
+    "singer": "Lana Del Rey",
+    "genres": "indie pop, baroque pop, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "The 1",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2019
+  },
+  {
+    "name": "Lovely",
+    "singer": "Billie Eilish & Khalid",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "IDGAF",
+    "singer": "Dua Lipa",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Lavender Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Die For You (Remix)",
+    "singer": "The Weeknd ft. Ariana Grande",
+    "genres": "r&b, synth-pop, pop",
+    "release_year": 2023
+  },
+  {
+    "name": "Rich Sex",
+    "singer": "Nicki Minaj ft. Lil Wayne",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "DNA Sequence",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap, jazz rap",
+    "release_year": 2023
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Sweetener",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "The Great Escape",
+    "singer": "Taylor Swift",
+    "genres": "pop, pop rock",
+    "release_year": 2022
+  },
+  {
+    "name": "Getting Older",
+    "singer": "Billie Eilish",
+    "genres": "soft music, pop, alternative",
+    "release_year": 2021
+  },
+  {
+    "name": "Scared to Be Lonely",
+    "singer": "Dua Lipa",
+    "genres": "electronic, dance, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Boyfriend",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2019
+  },
+  {
+    "name": "Vienna",
+    "singer": "Billy Joel",
+    "genres": "soft rock, classic pop",
+    "release_year": 1977
+  },
+  {
+    "name": "Golden Hour Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, country, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Blinding Lights",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2023
+  },
+  {
+    "name": "Water",
+    "singer": "Tyla",
+    "genres": "amapiano, r&b, afrobeats",
+    "release_year": 2023
+  },
+  {
+    "name": "Travesuras",
+    "singer": "Nicky Jam",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Woman",
+    "singer": "Doja Cat",
+    "genres": "r&b, pop, afrobeats",
+    "release_year": 2021
+  },
+  {
+    "name": "Better",
+    "singer": "Khalid",
+    "genres": "r&b, pop, electronic",
+    "release_year": 2018
+  },
+  {
+    "name": "Willow Tree Secrets",
+    "singer": "Taylor Swift",
+    "genres": "pop, indie folk, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Sabor A Mí",
+    "singer": "Luis Miguel",
+    "genres": "bolero, latin pop",
+    "release_year": 1997
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "She Used To Be Mine",
+    "singer": "Sara Bareilles",
+    "genres": "pop, soft music, broadway",
+    "release_year": 2015
+  },
+  {
+    "name": "Chandelier",
+    "singer": "Sia",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Astronaut In The Ocean",
+    "singer": "Masked Wolf",
+    "genres": "hip hop, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Montero (Call Me By Your Name)",
+    "singer": "Lil Nas X",
+    "genres": "pop, r&b, rap",
+    "release_year": 2021
+  },
+  {
+    "name": "Cherry",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, indie pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Otro Atardecer",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Kiss Me More",
+    "singer": "Doja Cat ft. SZA",
+    "genres": "pop, r&b, disco",
+    "release_year": 2021
+  },
+  {
+    "name": "Circles",
+    "singer": "Post Malone",
+    "genres": "pop, alternative rock",
+    "release_year": 2019
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Red Shift",
+    "singer": "The Weeknd",
+    "genres": "synthwave, dance, pop",
+    "release_year": 2024
+  },
+  {
+    "name": "Lavender Haze (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2014
+  },
+  {
+    "name": "I Feel It Coming",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, disco, pop",
+    "release_year": 2016
+  }
+]

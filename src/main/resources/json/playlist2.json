@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Watermelon Sugar (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Enchanted (Taylor's Version)",
+    "singer": "Taylor Swift",
+    "genres": "pop, country pop, soft rock",
+    "release_year": 2023
+  },
+  {
+    "name": "Golden Hour Haze",
+    "singer": "Taylor Swift",
+    "genres": "pop, country, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Therefore I Am (Remix 2)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dance",
+    "release_year": 2021
+  },
+  {
+    "name": "Levitating (Remix)",
+    "singer": "Dua Lipa ft. DaBaby",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Hurricane",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Red Shift (Cinematic)",
+    "singer": "The Weeknd",
+    "genres": "synthwave, cinematic, r&b",
+    "release_year": 2024
+  },
+  {
+    "name": "The Motto",
+    "singer": "Drake",
+    "genres": "hip hop, trap, rap",
+    "release_year": 2011
+  },
+  {
+    "name": "Ojitos Lindos (Acoustic)",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, soft music",
+    "release_year": 2022
+  },
+  {
+    "name": "Salty Tears (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Vampire (Acoustic)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2023
+  },
+  {
+    "name": "Castle on the Hill",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, arena rock",
+    "release_year": 2017
+  },
+  {
+    "name": "My Future (Live)",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Positions (Acoustic)",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "The Hillbillies",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, rap",
+    "release_year": 2023
+  },
+  {
+    "name": "Cruel Summer (Live)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, rock",
+    "release_year": 2023
+  },
+  {
+    "name": "Save Your Tears (Remix)",
+    "singer": "The Weeknd ft. Ariana Grande",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Sweetest Pie",
+    "singer": "Megan Thee Stallion ft. Dua Lipa",
+    "genres": "hip hop, r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Hold On (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2022
+  },
+  {
+    "name": "Rich Flex (Remix)",
+    "singer": "Drake",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2023
+  },
+  {
+    "name": "Nobody Gets Me (Live)",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Traitor (Piano Version)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect (Duet)",
+    "singer": "Ed Sheeran ft. Beyoncé",
+    "genres": "pop, ballad, soul",
+    "release_year": 2017
+  },
+  {
+    "name": "La Jumpa",
+    "singer": "Bad Bunny",
+    "genres": "latin trap, reggaeton",
+    "release_year": 2022
+  },
+  {
+    "name": "Breathin",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Life Is Good",
+    "singer": "Future ft. Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame",
+    "singer": "Swedish House Mafia & The Weeknd",
+    "genres": "electronic, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Anti-Hero (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Bad Guy (Acoustic)",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, dark pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Levitating (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2021
+  },
+  {
+    "name": "Kiwi (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop rock, alternative rock",
+    "release_year": 2018
+  },
+  {
+    "name": "DNA. (Remix)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Drivers License (Live)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Shivers (Acoustic)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soft music, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "La Noche De Anoche",
+    "singer": "Bad Bunny ft. Rosalía",
+    "genres": "reggaeton, latin pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Thank U, Next",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "One Dance",
+    "singer": "Drake",
+    "genres": "dancehall, afrobeats, pop",
+    "release_year": 2016
+  },
+  {
+    "name": "The Hills",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, hip hop",
+    "release_year": 2015
+  },
+  {
+    "name": "Delicate (Acoustic)",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "When The Party's Over",
+    "singer": "Billie Eilish",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2018
+  },
+  {
+    "name": "Love Again (Live)",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, soul",
+    "release_year": 2021
+  },
+  {
+    "name": "Satellite (Acoustic)",
+    "singer": "Harry Styles",
+    "genres": "pop, soft music, rock",
+    "release_year": 2023
+  },
+  {
+    "name": "HUMBLE. (Remix)",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend (Acoustic)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, soft music",
+    "release_year": 2018
+  },
+  {
+    "name": "Happier (Acoustic)",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, ballad",
+    "release_year": 2021
+  },
+  {
+    "name": "Photograph",
+    "singer": "Ed Sheeran",
+    "genres": "pop, folk, ballad",
+    "release_year": 2014
+  },
+  {
+    "name": "Dákiti",
+    "singer": "Bad Bunny ft. Jhay Cortez",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Test Drive",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Laugh Now Cry Later",
+    "singer": "Drake ft. Lil Durk",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Cruel Summer",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Therefore I Am (Remix)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dance",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia pt. II",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Industry Baby",
+    "singer": "Lil Nas X",
+    "genres": "hip hop, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Die For You (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "r&b, soft music, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Remix)",
+    "singer": "SZA ft. Justin Bieber",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "One Last Time",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Way 2 Sexy",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Party Monster",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Exile",
+    "singer": "Taylor Swift ft. Bon Iver",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Bury a Friend",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, alternative",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, house",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Auntie Diaries",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "The Plan",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Blinding Lights (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, soft music, synthwave",
+    "release_year": 2020
+  },
+  {
+    "name": "Midnight Rain (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Break My Heart (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, nu-disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Open Arms",
+    "singer": "SZA ft. Travis Scott",
+    "genres": "r&b, neo-soul, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Justin Bieber",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "I Feel It Coming (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, dance",
+    "release_year": 2017
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Don't Start Now (Remix)",
+    "singer": "Dua Lipa",
+    "genres": "pop, house, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2022
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend (Funk Wav Remix)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, funk",
+    "release_year": 2017
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2015
+  },
+  {
+    "name": "Yo Perreo Sola",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2020
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starboy",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, electronic, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Lover",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2019
+  },
+  {
+    "name": "All The Good Girls Go To Hell",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "IDGAF (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Daydreamer",
+    "singer": "Adele",
+    "genres": "pop, soul, folk",
+    "release_year": 2007
+  },
+  {
+    "name": "About Damn Time",
+    "singer": "Lizzo",
+    "genres": "funk, pop, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Cruel Summer",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Therefore I Am (Remix)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dance",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia pt. II",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Industry Baby",
+    "singer": "Lil Nas X",
+    "genres": "hip hop, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Die For You (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "r&b, soft music, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Remix)",
+    "singer": "SZA ft. Justin Bieber",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "One Last Time",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Way 2 Sexy",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Party Monster",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Exile",
+    "singer": "Taylor Swift ft. Bon Iver",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Bury a Friend",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, alternative",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, house",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Auntie Diaries",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "The Plan",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Blinding Lights (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, soft music, synthwave",
+    "release_year": 2020
+  },
+  {
+    "name": "Midnight Rain (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Break My Heart (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, nu-disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Open Arms",
+    "singer": "SZA ft. Travis Scott",
+    "genres": "r&b, neo-soul, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Justin Bieber",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "I Feel It Coming (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, dance",
+    "release_year": 2017
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Don't Start Now (Remix)",
+    "singer": "Dua Lipa",
+    "genres": "pop, house, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2022
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend (Funk Wav Remix)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, funk",
+    "release_year": 2017
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2015
+  },
+  {
+    "name": "Yo Perreo Sola",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2020
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starboy",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, electronic, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Lover",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2019
+  },
+  {
+    "name": "All The Good Girls Go To Hell",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "IDGAF (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Daydreamer",
+    "singer": "Adele",
+    "genres": "pop, soul, folk",
+    "release_year": 2007
+  },
+  {
+    "name": "About Damn Time",
+    "singer": "Lizzo",
+    "genres": "funk, pop, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "Cruel Summer",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Therefore I Am (Remix)",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dance",
+    "release_year": 2021
+  },
+  {
+    "name": "Future Nostalgia pt. II",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Industry Baby",
+    "singer": "Lil Nas X",
+    "genres": "hip hop, pop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Die For You (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "r&b, soft music, pop",
+    "release_year": 2017
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Snooze (Remix)",
+    "singer": "SZA ft. Justin Bieber",
+    "genres": "r&b, pop, neo-soul",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "One Last Time",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2014
+  },
+  {
+    "name": "Way 2 Sexy",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2021
+  },
+  {
+    "name": "Party Monster",
+    "singer": "The Weeknd",
+    "genres": "r&b, trap, electronic",
+    "release_year": 2016
+  },
+  {
+    "name": "Exile",
+    "singer": "Taylor Swift ft. Bon Iver",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Bury a Friend",
+    "singer": "Billie Eilish",
+    "genres": "dark pop, electronic, alternative",
+    "release_year": 2019
+  },
+  {
+    "name": "Hallucinate",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, house",
+    "release_year": 2020
+  },
+  {
+    "name": "Watermelon Sugar (Live)",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2020
+  },
+  {
+    "name": "Auntie Diaries",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "The Plan",
+    "singer": "Travis Scott",
+    "genres": "hip hop, trap, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Blinding Lights (Acoustic)",
+    "singer": "The Weeknd",
+    "genres": "pop, soft music, synthwave",
+    "release_year": 2020
+  },
+  {
+    "name": "Midnight Rain (Remix)",
+    "singer": "Taylor Swift",
+    "genres": "pop, electronic, dance",
+    "release_year": 2023
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Break My Heart (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, nu-disco",
+    "release_year": 2020
+  },
+  {
+    "name": "Falling",
+    "singer": "Harry Styles",
+    "genres": "pop, soft rock, ballad",
+    "release_year": 2019
+  },
+  {
+    "name": "Rich Flex",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Open Arms",
+    "singer": "SZA ft. Travis Scott",
+    "genres": "r&b, neo-soul, trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Good 4 U",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop punk, alternative rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Perfect",
+    "singer": "Ed Sheeran",
+    "genres": "pop, ballad, soft rock",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Hold On",
+    "singer": "Justin Bieber",
+    "genres": "pop, synth-pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "I Feel It Coming (Remix)",
+    "singer": "The Weeknd",
+    "genres": "r&b, disco, dance",
+    "release_year": 2017
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Don't Start Now (Remix)",
+    "singer": "Dua Lipa",
+    "genres": "pop, house, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Daydreaming",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, soul",
+    "release_year": 2022
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "The Weekend (Funk Wav Remix)",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, funk",
+    "release_year": 2017
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Thinking Out Loud (Live)",
+    "singer": "Ed Sheeran",
+    "genres": "pop, soul, folk",
+    "release_year": 2015
+  },
+  {
+    "name": "Yo Perreo Sola",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2020
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "singer": "Ariana Grande",
+    "genres": "pop, dance-pop",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Starboy",
+    "singer": "The Weeknd ft. Daft Punk",
+    "genres": "r&b, electronic, trap",
+    "release_year": 2016
+  },
+  {
+    "name": "Lover",
+    "singer": "Taylor Swift",
+    "genres": "pop, soft rock, folk",
+    "release_year": 2019
+  },
+  {
+    "name": "All The Good Girls Go To Hell",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "IDGAF (Acoustic)",
+    "singer": "Dua Lipa",
+    "genres": "pop, soft music, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Daydreamer",
+    "singer": "Adele",
+    "genres": "pop, soul, folk",
+    "release_year": 2007
+  },
+  {
+    "name": "About Damn Time",
+    "singer": "Lizzo",
+    "genres": "funk, pop, r&b",
+    "release_year": 2022
+  }
+]

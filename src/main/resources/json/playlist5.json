@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "Starlight Runner",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Midnight Rain",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Take My Breath",
+    "singer": "The Weeknd",
+    "genres": "disco, funk, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Anti-Hero",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Break My Heart",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "I Don't Care",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Save Your Tears",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "All Too Well (10 Minute Version)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Starlight Runner",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Midnight Rain",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Take My Breath",
+    "singer": "The Weeknd",
+    "genres": "disco, funk, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Anti-Hero",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Break My Heart",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "I Don't Care",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Save Your Tears",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "All Too Well (10 Minute Version)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Starlight Runner",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Midnight Rain",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Take My Breath",
+    "singer": "The Weeknd",
+    "genres": "disco, funk, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Anti-Hero",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Break My Heart",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "I Don't Care",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Save Your Tears",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "All Too Well (10 Minute Version)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Starlight Runner",
+    "singer": "The Weeknd",
+    "genres": "pop, synthwave, r&b",
+    "release_year": 2021
+  },
+  {
+    "name": "Midnight Rain",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Happier Than Ever",
+    "singer": "Billie Eilish",
+    "genres": "alternative, pop, soft music",
+    "release_year": 2021
+  },
+  {
+    "name": "Physical",
+    "singer": "Dua Lipa",
+    "genres": "pop, disco, synth-pop",
+    "release_year": 2020
+  },
+  {
+    "name": "As It Was",
+    "singer": "Harry Styles",
+    "genres": "pop, synth-pop, new wave",
+    "release_year": 2022
+  },
+  {
+    "name": "N95",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap, conscious rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Kill Bill",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul",
+    "release_year": 2022
+  },
+  {
+    "name": "Drivers License",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, soft music, bedroom pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Habits",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop, synth-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Moscow Mule",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "Positions",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "God's Plan",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2018
+  },
+  {
+    "name": "Dawn FM",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, disco, electronic",
+    "release_year": 2022
+  },
+  {
+    "name": "Cardigan",
+    "singer": "Taylor Swift",
+    "genres": "indie folk, pop, soft music",
+    "release_year": 2020
+  },
+  {
+    "name": "Therefore I Am",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2020
+  },
+  {
+    "name": "Levitating",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, funk",
+    "release_year": 2020
+  },
+  {
+    "name": "Adore You",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, disco",
+    "release_year": 2019
+  },
+  {
+    "name": "HUMBLE.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Good Days",
+    "singer": "SZA",
+    "genres": "r&b, neo-soul, alternative r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Vampire",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, pop rock, soft music",
+    "release_year": 2023
+  },
+  {
+    "name": "Shivers",
+    "singer": "Ed Sheeran",
+    "genres": "pop, synth-pop, dance-pop",
+    "release_year": 2021
+  },
+  {
+    "name": "Yonaguni",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2021
+  },
+  {
+    "name": "34+35",
+    "singer": "Ariana Grande",
+    "genres": "r&b, pop",
+    "release_year": 2020
+  },
+  {
+    "name": "In My Feelings",
+    "singer": "Drake",
+    "genres": "hip hop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Take My Breath",
+    "singer": "The Weeknd",
+    "genres": "disco, funk, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Anti-Hero",
+    "singer": "Taylor Swift",
+    "genres": "pop, synth-pop",
+    "release_year": 2022
+  },
+  {
+    "name": "My Future",
+    "singer": "Billie Eilish",
+    "genres": "jazz, pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "Break My Heart",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2020
+  },
+  {
+    "name": "Golden",
+    "singer": "Harry Styles",
+    "genres": "pop, rock, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "DNA.",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, trap",
+    "release_year": 2017
+  },
+  {
+    "name": "Snooze",
+    "singer": "SZA",
+    "genres": "r&b, pop",
+    "release_year": 2022
+  },
+  {
+    "name": "Traitor",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "I Don't Care",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dance-pop",
+    "release_year": 2019
+  },
+  {
+    "name": "Ojitos Lindos",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, dancehall",
+    "release_year": 2022
+  },
+  {
+    "name": "Thank U, Next",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b",
+    "release_year": 2018
+  },
+  {
+    "name": "Hotline Bling",
+    "singer": "Drake",
+    "genres": "r&b, pop, dancehall",
+    "release_year": 2015
+  },
+  {
+    "name": "Save Your Tears",
+    "singer": "The Weeknd",
+    "genres": "pop, synth-pop, r&b",
+    "release_year": 2020
+  },
+  {
+    "name": "All Too Well (10 Minute Version)",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Bad Guy",
+    "singer": "Billie Eilish",
+    "genres": "pop, dark pop, electronic",
+    "release_year": 2019
+  },
+  {
+    "name": "Don't Start Now",
+    "singer": "Dua Lipa",
+    "genres": "pop, nu-disco, dance",
+    "release_year": 2019
+  },
+  {
+    "name": "Late Night Talking",
+    "singer": "Harry Styles",
+    "genres": "pop, funk, r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "The Heart Part 5",
+    "singer": "Kendrick Lamar",
+    "genres": "hip hop, jazz rap",
+    "release_year": 2022
+  },
+  {
+    "name": "Nobody Gets Me",
+    "singer": "SZA",
+    "genres": "r&b, alternative r&b",
+    "release_year": 2022
+  },
+  {
+    "name": "Deja Vu",
+    "singer": "Olivia Rodrigo",
+    "genres": "pop, alternative, soft rock",
+    "release_year": 2021
+  },
+  {
+    "name": "Shape of You",
+    "singer": "Ed Sheeran",
+    "genres": "pop, dancehall, r&b",
+    "release_year": 2017
+  },
+  {
+    "name": "Me Porto Bonito",
+    "singer": "Bad Bunny",
+    "genres": "reggaeton, latin trap",
+    "release_year": 2022
+  },
+  {
+    "name": "7 Rings",
+    "singer": "Ariana Grande",
+    "genres": "pop, r&b, trap",
+    "release_year": 2019
+  },
+  {
+    "name": "Life Is Good",
+    "singer": "Drake",
+    "genres": "hip hop, trap",
+    "release_year": 2020
+  },
+  {
+    "name": "Moth to a Flame",
+    "singer": "The Weeknd",
+    "genres": "synth-pop, electronic",
+    "release_year": 2021
+  },
+  {
+    "name": "Willow",
+    "singer": "Taylor Swift",
+    "genres": "pop, folk, indie pop",
+    "release_year": 2020
+  },
+  {
+    "name": "NDA",
+    "singer": "Billie Eilish",
+    "genres": "pop, electronic, dark pop",
+    "release_year": 2021
+  }
+]
