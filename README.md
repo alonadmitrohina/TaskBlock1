@@ -33,6 +33,7 @@
 
 
 Приклад вхідних даних:
+```json
 [
   {
     "name": "Blinding Lights (Live)",
@@ -95,7 +96,7 @@
     "release_year": 2023
   }
 ]
-
+```
 
 Приклад вихідних даних (за атрибутом singer):
 <?xml version="1.0" encoding="UTF-8"?><statistics>
