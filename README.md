@@ -103,7 +103,9 @@
 ```
 
 Приклад вихідних даних (за атрибутом singer):
-<?xml version="1.0" encoding="UTF-8"?><statistics>
+<?xml version="1.0" encoding="UTF-8"?>
+```xml
+<statistics>
     <item>
         <value>2019</value>
         <count>2</count>
@@ -133,7 +135,7 @@
         <count>1</count>
     </item>
 </statistics>
-
+```
 
 
 Багатопоточність:
